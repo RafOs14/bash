@@ -1,0 +1,2 @@
+# bash
+Scripts para proyecto
